@@ -1,1 +1,1 @@
-print("Be Nice! loaded")
+print('Be Nice! loaded')
