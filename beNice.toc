@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Be Nice!
+## Author: Juanjo Salvador
+## Version: 0.0.1
+## Notes: Be nice with your guildies!
+
+MainController.lua
+main.lua
